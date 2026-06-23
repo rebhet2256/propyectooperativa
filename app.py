@@ -496,7 +496,7 @@ def main():
     
     # Barra lateral con navegación
     with st.sidebar:
-       # st.image(None, use_column_width=True)
+       #st.image(None, use_column_width=True)
         st.markdown("# 🎓 UMSA")
         st.markdown("**Investigación Operativa**")
         st.markdown("---")
